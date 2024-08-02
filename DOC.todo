@@ -1,0 +1,35 @@
+## Orientações Basicas
+
+  [x] Resetar os arquivos page e styles
+  [x] Baixar os arquivo de texto e imagem do projeto
+    [ ] Adicionar os arquivos ao projeto
+  [ ] Realizar o imnport da fonte externa do Google
+    "https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+  [ ] Criar as pages
+    [ ] Sabores
+      [ ] estilizar a pagina
+    [ ] Sobre
+      [ ] estilizar a pagina
+  [ ] Criar componentes
+    [ ] Topo
+      [ ] estilizar o componente
+    [ ] Rodape
+      [ ] estilizar o componente
+## Paleta de Cores do projeto
+  #FFFFFF
+  #D9DDE1
+  #474747
+  #000000
+  #F9DB79
+
+##  Layoyt's (https://www.devmedia.com.br/quest/etapa.php?id=89)
+
+## Dimensões do projeto (https://www.devmedia.com.br/quest/etapa.php?id=90) 
+  -> Componentes
+    * Topo
+    * Rodape
+  -> Paginas
+    * Inicial
+    * Sabores
+    * Sobre
+
