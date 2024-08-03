@@ -5,7 +5,7 @@ import Rodape from '@/componentes/Rodape';
 
 
 export const metadata = {
-  title: "Sorveteria - Sabores",
+  title: "Sorveteria - Gelateria",
   description: "Projeto construido em React.js (Router App) do curso da DevMedia",
 };
 

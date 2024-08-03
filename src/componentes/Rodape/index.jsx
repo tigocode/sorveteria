@@ -6,7 +6,7 @@ import styleGlogal from '../globals.module.css';
 export default function Rodape() {
   return(
     <footer className={`${styleGlogal.container} ${styleGlogal.rodape}`}>
-      <div className={style.container_rodape}>
+      <section className={style.container_rodape}>
         <Image src={Logo} className={style.Image} />
         <div>
           <h3>ENDEREÇO</h3>
@@ -23,10 +23,10 @@ export default function Rodape() {
           <p>ABERTO TODOS OS DIAS</p>
           <p>10:00 - 22:00</p>
         </div>
-      </div>
-      <div className={style.text}>
-          <p>Gelateria. Orgulhosamente desenvolvido por "nome do desenvolvedor"</p>
-      </div>
+      </section>
+      <section className={style.text}>
+          <p>Gelateria. Orgulhosamente desenvolvido por "TigoCode - Tiago Dantas"</p>
+      </section>
     </footer>
   );
 };
