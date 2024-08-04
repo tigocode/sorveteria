@@ -8,10 +8,10 @@
   [ ] Criar as pages
     [x] Home
         [x] estilizar a pagina
-    [ ] Sabores
-      [ ] estilizar a pagina
-    [ ] Sobre
-      [ ] estilizar a pagina
+    [x] Sabores
+      [x] estilizar a pagina
+    [x] Sobre
+      [x] estilizar a pagina
   [x] Criar componentes
     [x] Topo
       [x] estilizar o componente
