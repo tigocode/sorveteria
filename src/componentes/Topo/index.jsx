@@ -9,6 +9,7 @@ export default function Topo() {
     <header className={`${styleGlogal.container} ${styleGlogal.topo}`}>
       <section className={`${style.container_topo}`}>
         <Image src={Logo} className={style.Image}/>
+        <div className={style.line}></div>
         <nav className={style.container_nav}>
           <Link href="/" className={style.text}>HOME</Link>
           <Link href="/sabores" className={style.text}>SABORES</Link>

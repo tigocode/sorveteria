@@ -3,7 +3,7 @@
 
 A proposta desse projeto é criar uma página web para uma loja de sorveteria e gelateria, para colocar em prática os conceitos adquiridos até aqui:
 
-### Acesse o Link: https://sorveteria-geladeria.vercel.app/
+### Acesse o Link: https://sorveteria-gelateria-tigocode.vercel.app/
 
 <div>
   <img height="400em" src="./public/Page_Sorveteria.png" />

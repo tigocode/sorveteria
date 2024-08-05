@@ -5,7 +5,7 @@
     [x] Adicionar os arquivos ao projeto
   [x] Realizar o imnport da fonte externa do Google
     "https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
-  [ ] Criar as pages
+  [x] Criar as pages
     [x] Home
         [x] estilizar a pagina
     [x] Sabores

@@ -55,3 +55,17 @@
   width: 50%;
   height: 500px;
 }
+@media (max-width: 1024px) {
+  .box_text {
+    padding: 80px 40px
+  }
+  .image {
+    height: 400px;
+  }
+}
+@media (min-width: 420px) and (max-width: 768px) {
+
+}
+@media (min-width: 375px ) and (max-width: 419px) {
+  
+}

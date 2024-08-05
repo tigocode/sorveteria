@@ -57,3 +57,36 @@
 .box div p {
   font-size: 16px;
 }
+@media (max-width: 1024px) {
+  .box {
+    gap: 12px;
+  }
+}
+@media (max-width: 768px) {
+  .container_banner h1 {
+    font-size: 60px;
+  }
+  .box div {
+    width: 100%;
+    align-items: center;
+  }
+  .Image {
+    width: 255px;
+    height: 225px;
+  }
+}
+@media (min-width: 375px ) and (max-width: 767px) {
+  .container_banner {
+    background-size: cover;
+  }
+  .container_banner h1 {
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    top: 15%;
+  }
+  .Image {
+    width: 185px;
+    height: 185px;
+  }
+}

@@ -35,3 +35,31 @@
   color: #FFFFFF;
   padding: 20px;
 }
+@media (max-width: 1024px) {
+  .container_rodape {
+  padding: 80px 40px;
+  }
+}
+@media  (min-width: 420px) and (max-width: 768px) {
+  .container_rodape {
+    flex-direction: column;
+    text-align: center;
+    padding: 30px 20px;
+  }
+  .container_rodape div {
+    width: 68%;
+  }
+}
+@media (min-width: 375px ) and (max-width: 419px) {
+  .container_rodape {
+    flex-direction: column;
+    text-align: center;
+    padding: 30px 20px;
+  }
+  .container_rodape div {
+    width: 68%;
+  }
+  .text p {
+    font-size: 13px;
+  }
+}
