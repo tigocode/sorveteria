@@ -49,24 +49,40 @@
 }
 .box_text p {
   font-size: 16px;
-  line-height: 30px;
+  line-height: 40px;
 }
-@media (min-width: 860px) and (max-width: 1065px) {
+@media (min-width: 860px) and (max-width: 1400px) {
   .container_banner {
     background-position: 50% 85%;
+    background-size: 450px;
   }
   .container_banner h1 {
     width: 60vw;
+    font-size: 70px;
     text-align: center;
+    position: relative;
+    top: 8%;
   }
   .box_text {
     padding: 20px 20px;
+  }
+  .box_text h2 {
+    font-size: 1.4em;
+  }
+  .box_text span {
+    font-size: 1.2em; 
+  }
+  .box_text p {
+    font-size: 1em;
+    line-height: 25px;
   }
 }
 @media (min-width: 375px) and (max-width: 860px) {
   .container_banner h1 {
     width: 50vw;
     text-align: center;
+    position: relative;
+    top: 8%;
   }
   .container_box {
     flex-direction: column;
@@ -84,27 +100,46 @@
   .item4 {
     order: 3;
   }
+  .box_text {
+    padding: 20px 20px;
+  }
+  .box_text h2 {
+    font-size: 1.4em;
+  }
+  .box_text span {
+    font-size: 1.2em; 
+  }
+  .box_text p {
+    font-size: 1em;
+    line-height: 25px;
+  }
 }
 @media (min-width: 768px ) and (max-width: 860px) {
   .container_banner {
     background-position: 50% 70%;
+    background-size: 450px;
   }
   .container_banner h1 {
-    width: 62vw;
-    font-size: 70px;
+    width: 60vw;
+    font-size: 55px;
     text-align: center;
   }
 }
 @media (min-width: 425px) and (max-width: 768px) {
   .container_banner {
-    background-position: 50% 85%;
+    background-position: 50% 88%;
+    background-size: 420px;
   }
   .container_banner h1 {
-    font-size: 60px;
+    font-size: 45px;
   }
 }
 @media (min-width: 375px) and (max-width: 425px) {
   .container_banner {
-    background-position: 50% 70%;
+    background-position: 50% 90%;
+    background-size: 380px;
+  }
+  .container_banner h1 {
+    font-size: 30px;
   }
 }
