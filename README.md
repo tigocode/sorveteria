@@ -27,3 +27,4 @@ Ao desenvolver a aplicação foi possível aplicar os seguintes conhecimentos ob
 
 Apresentação da responsividade em ação:
 
+https://github.com/user-attachments/assets/c510cbaf-1265-43c7-afd9-979c8fdfa47e
